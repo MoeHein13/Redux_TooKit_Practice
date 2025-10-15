@@ -1,0 +1,26 @@
+State
+name
+value 
+search
+list 
+
+
+how the state change over time?
+changeName 
+changeValue 
+
+
+changeSearch
+addCar
+removeCar
+
+
+
+Components 
+
+Form
+Search
+List
+Value
+
+
